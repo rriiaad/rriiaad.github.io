@@ -16,7 +16,7 @@ timezone: Africa/Algiers
 
 title: Riad Benosmane # the main title
 
-tagline: Soc analyste, aspiring penetration tester # it will display as the subtitle
+tagline: Soc analyst, aspiring penetration tester # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal blog to share write-ups on cybersecurity challenges from Hack The Box, along with knowledge and tutorials.

@@ -1,12 +1,9 @@
 ---
-title: Baby Breaking Grad
+title: HackTheBox - Baby Breaking Grad Web Challenge
 date: 2024-11-07 14:30:45 +0100
 categories: [HackTheBox, Web]
-tags: [challenge, web]
+tags: [challenge, web,command injection]
 ---
-# HackTheBox - Baby Breaking Grad Web Challenge
-**Link:** [HackTheBox Challenge - Baby Breaking Grad](https://app.hackthebox.com/challenges/baby%20breaking%20grad)
-
 ### Challenge Description
 We corrected the math in our physics teacher's paper, and now he is failing us out of spite for embarrassing him at the university's research symposium. Now, we can't graduate unless we can do something about it...
 
